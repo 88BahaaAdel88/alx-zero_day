@@ -1,1 +1,1 @@
-non empty Readme file 
+How to be up to date in git
